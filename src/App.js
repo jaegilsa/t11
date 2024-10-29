@@ -12,6 +12,7 @@ function App() {
           alt="홀덤 라이브"
           style={{ margin: '0 auto' }}
         />
+        
       </div>
 
       <div className="style_storeContainer">
